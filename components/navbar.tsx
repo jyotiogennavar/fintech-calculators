@@ -42,7 +42,7 @@ export function Navbar() {
           {/* Right side */}
           <div className="flex items-center gap-2">
             <Link
-              href="https://github.com"
+              href="https://github.com/jyotiogennavar/fintech-calculators"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden md:flex items-center gap-1.5 px-3 py-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors rounded-md hover:bg-accent"
